@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -119,10 +118,7 @@ control precision and combat readability.
 </p>
 
 <div class="video-container">
-<iframe src="YOUR_YOUTUBE_EMBED_LINK"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8I_37p7pcl0?si=olNTfxaOERDBO5CH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="tech">
